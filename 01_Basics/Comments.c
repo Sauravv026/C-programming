@@ -1,4 +1,4 @@
-Comments are notes you write inside your code. The compiler completely ignores them - they exist only to help humans understand the code.
+/*Comments are notes you write inside your code. The compiler completely ignores them - they exist only to help humans understand the code.
 
 To write a single-line comment, use //. Everything after // until the end of the line is ignored:
 
@@ -6,7 +6,7 @@ To write a single-line comment, use //. Everything after // until the end of the
 printf("Hello, World!");
 
 Note: Every multi-line comment that starts with /* must be closed with */, 
-otherwise the compiler treats everything after it as a comment.
+otherwise the compiler treats everything after it as a comment.*/
 
 /* This is a multi-line comment.
    The compiler ignores all of it. */
