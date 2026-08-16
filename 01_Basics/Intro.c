@@ -1,4 +1,4 @@
-*C is a powerful and efficient programming language that provides low-level access to memory while maintaining high performance. It's ideal for system programming, embedded systems, and operating systems, offering fine-grained control over hardware and memory management.
+/*C is a powerful and efficient programming language that provides low-level access to memory while maintaining high performance. It's ideal for system programming, embedded systems, and operating systems, offering fine-grained control over hardware and memory management.
 
 Here is what a basic C program looks like:
 
