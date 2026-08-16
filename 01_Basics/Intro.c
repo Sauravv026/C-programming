@@ -1,4 +1,4 @@
-C is a powerful and efficient programming language that provides low-level access to memory while maintaining high performance. It's ideal for system programming, embedded systems, and operating systems, offering fine-grained control over hardware and memory management.
+*C is a powerful and efficient programming language that provides low-level access to memory while maintaining high performance. It's ideal for system programming, embedded systems, and operating systems, offering fine-grained control over hardware and memory management.
 
 Here is what a basic C program looks like:
 
@@ -7,7 +7,7 @@ int main() { — defines the main function, which is where every C program start
 printf("Hi! I am learning C programming."); — prints the text,"Hi! I am learning C programming." to the screen.
 } — closes the main function.
 
-Here's the 1st code:
+Here's the 1st code:*/
 #include <stdio.h>
 int main()
 {
